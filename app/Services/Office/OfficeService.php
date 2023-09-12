@@ -63,11 +63,7 @@ class OfficeService extends Service
             // ---------- 使用 http 請求圖片 ----------
             $response = Http::withOptions([
                 'curl' => [
-                    CURLOPT_RESOLVE => $this->CURLOPT_RESOLVE,
-                    // CURLOPT_RESOLVE => [
-                    //     'images-*.cdn.hinet.net:443:203.66.32.139',
-                    //     'images-*.cdn.hinet.net:443:203.66.32.76'
-                    // ], // 設置 DNS 解析器
+                    CURLOPT_RESOLVE => $this->CURLOPT_RESOLVE,// 設置 DNS 解析器
                 ],
             ])->get($url);
             // 狀態ok則寫入圖檔
@@ -88,25 +84,6 @@ class OfficeService extends Service
                     'file_path' => ''
                 ];
             }
-            // dd($url);
-            // ---------- end http ----------
-            // // ---------- 使用curl取得圖片 ----------
-            // $ch = curl_init();
-            // curl_setopt($ch, CURLOPT_URL, $url);
-            // curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-            // curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 30);
-            // curl_setopt($ch, CURLOPT_TIMEOUT, 0);
-            // $file = curl_exec($ch);
-            // // $header_size = curl_getinfo($ch, CURLINFO_HEADER_SIZE);
-
-            // //關閉串流
-            // curl_close($ch);
-            // $filename = pathinfo($url, PATHINFO_BASENAME);
-            // $resource = fopen($path . $filename, 'w');
-            // fwrite($resource, $file);
-            // fclose($resource);
-            // // ---------- end ----------
-            // dd($path , $filename);
             if(empty($filename)) dd($url);
             $file_path = $path . $filename;
             // 當http出現預期外的狀況時，嘗試使用wget取得圖片

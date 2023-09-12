@@ -148,7 +148,6 @@ class PettyCashListService extends Service
                 foreach ($val["image"] as $k => $v) {
                     $cci = $this->checkImage($v);
                     if ($cci) return $cci;
-                    // if ($this->checkImage($val["image"])) return $this->checkImage($val["image"]);   
                 }
             }
         }
@@ -310,88 +309,6 @@ class PettyCashListService extends Service
             }
         }
 
-        // if (!empty($purchase_order_item_id)) {
-        //     // 查詢採購單子項目
-        //     $purchase_order_items = PurchaseOrderItem::select(
-        //         'id',
-        //         'purchase_order_id',
-        //         'petty_cash_list_id',
-        //         DB::raw('(select requisition_item_id from requisition_purchase_orders where requisition_purchase_orders.`purchase_order_item_id`  = purchase_order_items.id) as requisition_item_id')
-        //     )
-        //         ->whereIn('id', $purchase_order_item_id)
-        //         ->get()->toArray();
-        //     dd($purchase_order_items);
-        //     $purchase_order_id = $purchase_order_items[0]['purchase_order_id'];
-
-        //     // 更新採購單 petty_cash_list_id
-        //     // 1.取得舊資料
-        //     $purchase_order = PurchaseOrder::select('petty_cash_list_id')->where('id', '=', $purchase_order_id)->get()->toArray();
-
-        //     $purchase_order_petty = collect(json_decode($purchase_order[0]['petty_cash_list_id'], true));
-        //     // 2.資料合併
-        //     $purchase_order_petty = $purchase_order_petty
-        //         ->merge($petty_cash_list_ids)
-        //         ->unique()
-        //         ->toJson();
-        //     // 3.儲存變更
-        //     $purchase_order = PurchaseOrder::where('id', '=', $purchase_order_id)
-        //         ->update(['petty_cash_list_id' => $purchase_order_petty]);
-
-        //     // 更新採購單子表 
-        //     foreach ($purchase_order_items as $key => $item) {
-        //         // 採購單子表 更新狀態+零用金列表
-        //         // 建立集合、合併陣列、濾除重複，轉成json
-        //         $temp_arr = collect(json_decode($item['petty_cash_list_id'], true));
-        //         $temp_arr = $temp_arr->merge($petty_cash_list_ids)->unique()->toJson();
-        //         // 更新採購單子表狀態
-        //         PurchaseOrderItem::where('id', '=', $item['id'])->update([
-        //             'status' => 14,     // 變更狀態
-        //             'petty_cash_list_id' => $temp_arr, //零用金id
-        //             'signee_id' => auth()->user()->id //簽收人
-        //         ]);
-        //         // 更新請購單子表狀態
-        //         RequisitionItem::where('id', '=', $item['requisition_item_id'])
-        //             ->update(['status' => 4]);
-        //     }
-
-        //     // // 採購單 狀態變更
-        //     // $purchase_order_data = PurchaseOrder::select('id')->where('code', '=', $this->request_array['purchaseOrderNumber'])->first();
-        //     // $purchase_id = $purchase_order_data->id;
-
-        //     // $update_PurchaseOrderItem = PurchaseOrderItem::where('purchase_order_id', $purchase_id)
-        //     //     ->update(['status' => 14]);
-
-        //     // $update_RequisitionItem = RequisitionItem::wherein(
-        //     //     'id',
-        //     //     function ($query) use ($purchase_id) {
-        //     //         $query->select('requisition_item_id')
-        //     //             ->from('requisition_purchase_orders')
-        //     //             ->whereRaw("`purchase_order_id`={$purchase_id}");
-        //     //     }
-        //     // )->update(['status' => 4]);
-
-        //     // 圖片處理
-
-        //     $images = Image::select('*')
-        //         ->where('type', '=', 'PettyCashList')
-        //         ->whereIn('fk_id', $pcl_id_arr)->get();
-        //     dd($purchase_order_id);
-        //     foreach ($images as $key => $val) {
-        //         // 請購單id
-        //         $createImage = new Image();
-        //         $createImage->image_name = $val->image_name;
-        //         $createImage->file_name = $val->file_name;
-        //         $createImage->path = $val->path;
-        //         $createImage->url = $val->url;
-        //         $createImage->user_id = $val->user_id;
-        //         $createImage->extension = $val->extension;
-        //         $createImage->fk_id = $purchase_order_id;
-        //         $createImage->type = 'PurchaseOrder';
-        //         $createImage->created_at = $val->created_at;
-        //         $createImage->updated_at = $val->updated_at;
-        //         $createImage->save();
-        //     }
-        // }
 
         return Service::response("00", "ok");
     }
@@ -630,17 +547,6 @@ class PettyCashListService extends Service
         $firm->address = (empty($company)) ? "" : $company[0]['Company_Location'];
         $firm->representative = (empty($company)) ? "" : $company[0]['Responsible_Name'];
 
-        // if (empty($company)) {
-        //     // 工商登記，查無資料，直接新增統編至`firm`
-        //     $firm->firm = "";
-        //     $firm->address = "";
-        //     $firm->representative = "";
-        // } else {
-        //     // 有資料則將相關資料新增至 `firm`
-        //     $firm->firm = $company[0]['Company_Name'];
-        //     $firm->address = $company[0]['Company_Location'];
-        //     $firm->representative = $company[0]['Responsible_Name'];
-        // }
 
         $firm->phone = "";
         $firm->contact_name = "";

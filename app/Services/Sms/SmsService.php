@@ -12,8 +12,8 @@ use Exception;
 class SmsService extends Service
 {
 
-    private $username = "70381925SMS";
-    private $password = "SMS70381925";
+    private $username = "*";
+    private $password = "*";
     private $uri = "https://smsapi.mitake.com.tw/api/mtk/SmSend?CharsetURL=UTF8";
     private $uri_query = "https://smsapi.mitake.com.tw/api/mtk/SmQuery";
 
