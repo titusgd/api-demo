@@ -23,7 +23,7 @@ class OfficeService extends Service
     {
         $this->execution_time[$name]['end'] = microtime(true);
         $this->execution_time[$name]['time'] = $this->execution_time[$name]['end'] - $this->execution_time[$name]['start'];
-        return $this;
+        return $this; 
     }
     public function getExecutionTime()
     {
