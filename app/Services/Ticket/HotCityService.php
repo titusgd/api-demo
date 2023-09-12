@@ -41,8 +41,6 @@ class HotCityService extends Service
                 $rules = [
                     'city_id' => 'required|exists:*.ticket_hot_cities,kkday_city_id',
                 ];
-                // $data = $this->request->toArray();
-
                 $data['city_id'] = $this->dataId;
                 break;
             case 'settingStor':

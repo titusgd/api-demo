@@ -10,9 +10,9 @@ use Illuminate\Http\Request;
 
 class StoreController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        return (new StoreInfoService())
+        return (new StoreInfoService($request))
             ->list()
             ->getResponse();
         // ---------- old ----------
@@ -23,18 +23,24 @@ class StoreController extends Controller
 
     public function store(Request $request)
     {
-        $service = new StoreInfoService();
+        $service = new StoreInfoService($request);
+        if($request->id === null){
+            return $service->runValidate('store')->store()->getResponse();
+        }else{
+            
+        }
         if ($request->id === null) {
-            $service->validCreate($request)->getResponse();
-            if(!empty($service->getResponse())) return $service->getResponse();
-            return $service->create($request)->getResponse();
+            return $service->runValidate('store')->store()->getResponse();
+            // $service->validCreate($request)->getResponse();
+            // if (!empty($service->getResponse())) return $service->getResponse();
+            // return $service->create($request)->getResponse();
             // ----- old -----
             // $valid = $service->validCreate($request);
             // if ($valid) return $valid;
             // return $service->create($request);
         } else {
             $service->validUpdate($request)->getResponse();
-            if(!empty($service->getResponse())) return $service->getResponse();
+            if (!empty($service->getResponse())) return $service->getResponse();
             return $service->create($request)->getResponse();
 
             // ----- old -----
@@ -62,7 +68,7 @@ class StoreController extends Controller
 
     public function getList(Request $request)
     {
-        $service = new StoreInfoService();
+        $service = new StoreInfoService($request);
         return $service->list()->getResponse();
     }
 }

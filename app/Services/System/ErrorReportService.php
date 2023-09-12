@@ -123,7 +123,6 @@ class ErrorReportService extends Service
     public function settingSort()
     {
         if (!empty(self::getResponse())) return $this;
-        //code ... ...
         self::sort((new Model), $this->request['data'], 'id');
         self::setOk();
         return $this;
@@ -131,7 +130,6 @@ class ErrorReportService extends Service
     public function settingUse()
     {
         if (!empty(self::getResponse())) return $this;
-        //code ... ...
         self::use((new Model), $this->request['id'], $this->request['use']);
         self::setOk();
         return $this;
