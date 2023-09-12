@@ -1,0 +1,1201 @@
+[{
+        "type": "ADB",
+        "description": "Izmir, Turkey (ADB-Adnan Menderes)"
+    },
+    {
+        "type": "AEY",
+        "description": "Akureyri, Iceland (AEY)"
+    },
+    {
+        "type": "AGB",
+        "description": "Augsburg, Germany (AGB)"
+    },
+    {
+        "type": "AKL",
+        "description": "Auckland Airport"
+    },
+    {
+        "type": "AKL",
+        "description": "Auckland, New Zealand (AKL-Auckland Intl.)"
+    },
+    {
+        "type": "AMS",
+        "description": "Amsterdam, Netherlands (AMS-Schiphol)"
+    },
+    {
+        "type": "AOJ",
+        "description": "Aomori, Japan (AOJ)"
+    },
+    {
+        "type": "ARN",
+        "description": "Stockholm, Sweden (ARN-Arlanda)"
+    },
+    {
+        "type": "ATH",
+        "description": "Athens, Greece (ATH-EleftheriosVenizelos)"
+    },
+    {
+        "type": "ATL",
+        "description": "Hartsfield-Jackson Atlanta International"
+    },
+    {
+        "type": "ATL",
+        "description": "Atlanta, GA, United States (ATL-Hartsfield-Jackson Atlanta Intl.)"
+    },
+    {
+        "type": "AUH",
+        "description": "Abu Dhabi International Airport"
+    },
+    {
+        "type": "AXT",
+        "description": "Akita, Japan (AXT)"
+    },
+    {
+        "type": "AYT",
+        "description": "Antalya, Turkey (AYT-Antalya Intl.)"
+    },
+    {
+        "type": "BAV",
+        "description": "BAO TOU National Airport"
+    },
+    {
+        "type": "BCN",
+        "description": "Barcelona, Spain (BCN-Barcelona Intl.)"
+    },
+    {
+        "type": "BFS",
+        "description": "Belfast, Northern Ireland, UK (BFS-Belfast Intl.)"
+    },
+    {
+        "type": "BHD",
+        "description": "Belfast, Northern Ireland, UK (BHD-George Best Belfast City)"
+    },
+    {
+        "type": "BKA",
+        "description": "Moscow, Russia (BKA-Bykovo)"
+    },
+    {
+        "type": "BKI",
+        "description": "Kota KinabaluInternational Airport"
+    },
+    {
+        "type": "BKK",
+        "description": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)"
+    },
+    {
+        "type": "BMA",
+        "description": "Stockholm, Sweden (BMA-Bromma)"
+    },
+    {
+        "type": "BOG",
+        "description": "Bogota, Colombia (BOG-El Dorado Intl.)"
+    },
+    {
+        "type": "BOM",
+        "description": "Chhatrapati Shivaji International Airport"
+    },
+    {
+        "type": "BOS",
+        "description": "Logan International"
+    },
+    {
+        "type": "BOS",
+        "description": "Boston, MA, United States (BOS-Logan Intl.)"
+    },
+    {
+        "type": "BRU",
+        "description": "Brussels, Belgium (BRU-Brussels Airport)"
+    },
+    {
+        "type": "BUD",
+        "description": "Budapest, Hungary (BUD-Ferihegy Intl.)"
+    },
+    {
+        "type": "BXN",
+        "description": "Bodrum, Turkey (BXN-Imsik)"
+    },
+    {
+        "type": "CAI",
+        "description": "Cairo, Egypt (CAI-Cairo Intl.)"
+    },
+    {
+        "type": "CAN",
+        "description": "XING BAI YUN National Airport"
+    },
+    {
+        "type": "CAN",
+        "description": "Guangzhou, China (CAN-Baiyun Intl.)"
+    },
+    {
+        "type": "CBR",
+        "description": "Canberra, ACT, Australia (CBR-Canberra Intl.)"
+    },
+    {
+        "type": "CDG",
+        "description": "Paris, France (CDG-Charles de Gaulle)"
+    },
+    {
+        "type": "CEB",
+        "description": "Cebu, Philippines (CEB-Mactan -Cebu Intl.)"
+    },
+    {
+        "type": "CEI",
+        "description": "Chiang Rai, Thailand (CEI-Chiang Rai Intl.)"
+    },
+    {
+        "type": "CGH",
+        "description": "Sao Paulo, Brazil (CGH-Congonhas-Sao Paulo Intl.)"
+    },
+    {
+        "type": "CGN",
+        "description": "Cologne, Germany (CGN-Cologne -Bonn)"
+    },
+    {
+        "type": "CGO",
+        "description": "XING ZHEN National Airport"
+    },
+    {
+        "type": "CGQ",
+        "description": "DA FANG National Airport"
+    },
+    {
+        "type": "CHC",
+        "description": "Christchurch, New Zealand (CHC-Christchurch Intl."
+    },
+    {
+        "type": "CIA",
+        "description": "Rome, Italy (CIA-Ciampino)"
+    },
+    {
+        "type": "CJJ",
+        "description": "CheongjuInternational Airport"
+    },
+    {
+        "type": "CJU",
+        "description": "Jeju, South Korea (CJU-Jeju Intl.)"
+    },
+    {
+        "type": "CKG",
+        "description": "JIANG BEI National Airport"
+    },
+    {
+        "type": "CLD",
+        "description": "Carlsbad, CA, United States (CLD-McClellan-Palomar)"
+    },
+    {
+        "type": "CMN",
+        "description": "Casablanca Mohammed V Internationl Airport"
+    },
+    {
+        "type": "CNS",
+        "description": "Cairns International Airport"
+    },
+    {
+        "type": "CNX",
+        "description": "Chiang Mai, Thailand (CNX-Chiang Mai Intl.)"
+    },
+    {
+        "type": "CPH",
+        "description": "Copenhagen, Denmark (CPH-Kastrup)"
+    },
+    {
+        "type": "CPT",
+        "description": "Cape Town International Airport"
+    },
+    {
+        "type": "CRL",
+        "description": "Brussels, Belgium (CRL-Brussels South Charleroi)"
+    },
+    {
+        "type": "CSX",
+        "description": "HUANG HUA National Airport"
+    },
+    {
+        "type": "CTS",
+        "description": "New Chitose Airpore,Japon(CTS)"
+    },
+    {
+        "type": "CTS",
+        "description": "Sapporo, Japan (CTS-New Chitose)"
+    },
+    {
+        "type": "CTU",
+        "description": "Shuang Liu International Airport"
+    },
+    {
+        "type": "CTU",
+        "description": "Chengdu, China (CTU-Shuangliu Intl.)"
+    },
+    {
+        "type": "CUN",
+        "description": "Cancun, Quintana Roo, Mexico (CUN-Cancun Intl.)"
+    },
+    {
+        "type": "CXR",
+        "description": "Cam Ranh International Airport"
+    },
+    {
+        "type": "CYI",
+        "description": "Chiayi, Taiwan (CYI)"
+    },
+    {
+        "type": "DAD",
+        "description": "Da Nang International Airport"
+    },
+    {
+        "type": "DBV",
+        "description": "Dubrovnik, Croatia (DBV)"
+    },
+    {
+        "type": "DCA",
+        "description": "Ronald Reagan Washington National"
+    },
+    {
+        "type": "DCA",
+        "description": "Washington, DC, United States (DCA-Ronald Reagan Washington National)"
+    },
+    {
+        "type": "DEN",
+        "description": "Denver International Airport"
+    },
+    {
+        "type": "DEN",
+        "description": "Denver, CO, United States (DEN-Denver Intl.)"
+    },
+    {
+        "type": "DFW",
+        "description": "Dallas/Ft. Worth International -DFW Airport"
+    },
+    {
+        "type": "DFW",
+        "description": "Dallas, TX, United States (DFW-Dallas-Fort Worth Intl.)"
+    },
+    {
+        "type": "DLC",
+        "description": "DA LIANG National Airport"
+    },
+    {
+        "type": "DLU",
+        "description": "DA LI National Airport"
+    },
+    {
+        "type": "DME",
+        "description": "Moscow, Russia (DME-Domodedovo Intl.)"
+    },
+    {
+        "type": "DMK",
+        "description": "Bangkok, Thailand (DMK-Don Mueang Intl.)"
+    },
+    {
+        "type": "DNH",
+        "description": "DUN HUANG National Airport"
+    },
+    {
+        "type": "DPS",
+        "description": "Ngurah Rai International Airport"
+    },
+    {
+        "type": "DUB",
+        "description": "Dublin, Ireland (DUB)"
+    },
+    {
+        "type": "DYG",
+        "description": "ZHANGJIAJIE HE HUA national airport"
+    },
+    {
+        "type": "EDI",
+        "description": "Edinburgh, Scotland, UK (EDI)"
+    },
+    {
+        "type": "ESB",
+        "description": "Ankara, Turkey (ESB-Esenboga)"
+    },
+    {
+        "type": "EWR",
+        "description": "Newark, NJ, United States (EWR-Liberty Intl.)"
+    },
+    {
+        "type": "FCO",
+        "description": "Rome, Italy (FCO-Leonardo Da Vinci)"
+    },
+    {
+        "type": "FKS",
+        "description": "Fukushima, Japan (FKS)"
+    },
+    {
+        "type": "FLR",
+        "description": "Florence, Italy (FLR-Peretola)"
+    },
+    {
+        "type": "FOC",
+        "description": "CHENG LE National Airport"
+    },
+    {
+        "type": "FOR",
+        "description": "Fortaleza, Brazil (FOR-Pinto Martins Intl.)"
+    },
+    {
+        "type": "FRA",
+        "description": "Frankfurt am Main, Germany (FRA-Frankfurt)"
+    },
+    {
+        "type": "FSZ",
+        "description": "Shizuoka, Japan (FSZ-Mt. Fuji -Shizuoka)"
+    },
+    {
+        "type": "FUK",
+        "description": "Fukuoka International Airport"
+    },
+    {
+        "type": "GIG",
+        "description": "Rio de Janeiro, Brazil (GIG-Galeao -Antonio Carlos Jobim Intl.)"
+    },
+    {
+        "type": "GMP",
+        "description": "Seoul, South Korea (GMP-Gimpo Intl.)"
+    },
+    {
+        "type": "GRU",
+        "description": "Sao Paulo, Brazil (GRU-Guarulhos -Governor Andre Franco Montoro Intl.)"
+    },
+    {
+        "type": "GVA",
+        "description": "Geneva, Switzerland (GVA-Cointrin Intl.)"
+    },
+    {
+        "type": "HAK",
+        "description": "MEI LAN National Airport"
+    },
+    {
+        "type": "HAM",
+        "description": "Hamburg, Germany (HAM-Hamburg Airport)"
+    },
+    {
+        "type": "HAN",
+        "description": "Hanoi, Vietnam (HAN-Noi Bai Intl.)"
+    },
+    {
+        "type": "HBA",
+        "description": "Hobart International Airport"
+    },
+    {
+        "type": "HDY",
+        "description": "Hat Yai International Airport"
+    },
+    {
+        "type": "HEK",
+        "description": "HEI HO National Airport"
+    },
+    {
+        "type": "HEL",
+        "description": "Helsinki, Finland (HEL-Vantaa)"
+    },
+    {
+        "type": "HET",
+        "description": "HUHHOT BAI TA National Airport"
+    },
+    {
+        "type": "HFE",
+        "description": "LUO GANG National Airport"
+    },
+    {
+        "type": "HGH",
+        "description": "Hangzhou, China (HGH-Xiaoshan Intl.)"
+    },
+    {
+        "type": "HIJ",
+        "description": "Hiroshima, Japan (HIJ)"
+    },
+    {
+        "type": "HIW",
+        "description": "Hiroshima, Japan (HIW-Hiroshima -Nishi)"
+    },
+    {
+        "type": "HKG",
+        "description": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)"
+    },
+    {
+        "type": "HKT",
+        "description": "Phuket, Thailand (HKT-Phuket Intl.)"
+    },
+    {
+        "type": "HND",
+        "description": "Tokyo, Japan (HND-Haneda)"
+    },
+    {
+        "type": "HNL",
+        "description": "Hawaii Honolulu International"
+    },
+    {
+        "type": "HNL",
+        "description": "Honolulu, HI, United States (HNL-Honolulu Intl.)"
+    },
+    {
+        "type": "HOU",
+        "description": "William P. Hobby Airport"
+    },
+    {
+        "type": "HOU",
+        "description": "Houston, TX, United States (HOU-William P. Hobby)"
+    },
+    {
+        "type": "HRB",
+        "description": "TAI PING National Airport"
+    },
+    {
+        "type": "HRG",
+        "description": "Hurghada, Egypt (HRG-Hurghada Intl.)"
+    },
+    {
+        "type": "HSG",
+        "description": "Sagaku Airport"
+    },
+    {
+        "type": "HUI",
+        "description": "PhuBai International Airport"
+    },
+    {
+        "type": "HUN",
+        "description": "Hualien, Taiwan (HUN)"
+    },
+    {
+        "type": "IAD",
+        "description": "Washington Dulles International Airport"
+    },
+    {
+        "type": "IAD",
+        "description": "Dulles International Airport"
+    },
+    {
+        "type": "IAD",
+        "description": "Washington, DC, United States (IAD-Washington Dulles Intl.)"
+    },
+    {
+        "type": "IAH",
+        "description": "George Bush Intercontinental"
+    },
+    {
+        "type": "IBR",
+        "description": "Ibaraki, Japan (IBR)"
+    },
+    {
+        "type": "ICN",
+        "description": "Seoul, South Korea (GMP-Gimpo Intl.)"
+    },
+    {
+        "type": "IGL",
+        "description": "Izmir, Turkey (IGL-Cigli Military)"
+    },
+    {
+        "type": "IGU",
+        "description": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)"
+    },
+    {
+        "type": "INC",
+        "description": "HE DONG National Airport"
+    },
+    {
+        "type": "IPC",
+        "description": "Mataveri International Airport"
+    },
+    {
+        "type": "IST",
+        "description": "Istanbul, Turkey (IST-Ataturk Intl.)"
+    },
+    {
+        "type": "ITM",
+        "description": "Osaka, Japan (ITM-Itami)"
+    },
+    {
+        "type": "JFK",
+        "description": "John F. Kennedy International"
+    },
+    {
+        "type": "JFK",
+        "description": "New York, NY, United States (JFK-John F. Kennedy Intl.)"
+    },
+    {
+        "type": "JHG",
+        "description": "GASA National Airport"
+    },
+    {
+        "type": "JIL",
+        "description": "JILIN ER TAI CI National Airport"
+    },
+    {
+        "type": "JZH",
+        "description": "HuangLong Airport"
+    },
+    {
+        "type": "KBV",
+        "description": "Krabi, Thailand (KBV-Krabi Intl.)"
+    },
+    {
+        "type": "KCH",
+        "description": "Kuching, Malaysia (KCH-Kuching Intl.)"
+    },
+    {
+        "type": "KCZ",
+        "description": "Kochi, Japan (KCZ-Ryoma)"
+    },
+    {
+        "type": "KEF",
+        "description": "Reykjavik, Iceland (KEF-Keflavik Intl.)"
+    },
+    {
+        "type": "KHG",
+        "description": "KESHI National Airport"
+    },
+    {
+        "type": "KHH",
+        "description": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)"
+    },
+    {
+        "type": "KHN",
+        "description": "CHONG BEI National Airport"
+    },
+    {
+        "type": "KIJ",
+        "description": "Niigata, Japan (KIJ)"
+    },
+    {
+        "type": "KIX",
+        "description": "Osaka, Japan (KIX-Kansai Intl.)"
+    },
+    {
+        "type": "KLO",
+        "description": "Kalibo International Airport"
+    },
+    {
+        "type": "KMG",
+        "description": "WU JIA BEI National Airport"
+    },
+    {
+        "type": "KMI",
+        "description": "Miyazaki Airport"
+    },
+    {
+        "type": "KMJ",
+        "description": "Kumamoto Airport"
+    },
+    {
+        "type": "KMQ",
+        "description": "Komatsu, Japan(KMQ)"
+    },
+    {
+        "type": "KNH",
+        "description": "Kinmen Island, Taiwan (KNH)"
+    },
+    {
+        "type": "KOJ",
+        "description": "Kagoshima Airport"
+    },
+    {
+        "type": "KOS",
+        "description": "Sihanoukville International Airport"
+    },
+    {
+        "type": "KRK",
+        "description": "Krakow, Poland (KRK-John Paul II -Balice)"
+    },
+    {
+        "type": "KUL",
+        "description": "Kuala Lumpur, Malaysia (KUL-Kuala Lumpur Intl.)"
+    },
+    {
+        "type": "KWE",
+        "description": "LONGDONGBAO National Airport"
+    },
+    {
+        "type": "KWL",
+        "description": "LIANGJIANG National Airport"
+    },
+    {
+        "type": "KWL",
+        "description": "Guilin, China (KWL-Liangjiang Intl.)"
+    },
+    {
+        "type": "LAS",
+        "description": "McCarran International Airport (LAS)"
+    },
+    {
+        "type": "LAS",
+        "description": "Las Vegas, NV, United States (LAS-McCarran Intl.)"
+    },
+    {
+        "tpye": "LAX",
+        "description": "Los Angeles International -LAX Airport"
+    },
+    {
+        "tpye": "LAX",
+        "description": "Los Angeles, CA, United States (LAX-Los Angeles Intl.)"
+    },
+    {
+        "tpye": "LBC",
+        "description": "Lubeck, Germany (LBC)"
+    },
+    {
+        "tpye": "LCY",
+        "description": "London, England, UK (LCY-London City)"
+    },
+    {
+        "tpye": "LGA",
+        "description": "LaGuardia International"
+    },
+    {
+        "tpye": "LGA",
+        "description": "New York, NY, United States (LGA-LaGuardia)"
+    },
+    {
+        "tpye": "LGK",
+        "description": "LGKLangkawi, Malaysia (LGK-Langkawi Intl.)"
+    },
+    {
+        "tpye": "LGW",
+        "description": "London, England, UK (LGW-Gatwick)"
+    },
+    {
+        "tpye": "LHR",
+        "description": "London, England, UK (LHR-Heathrow)"
+    },
+    {
+        "tpye": "LHW",
+        "description": "ZHONGCHUNAN National Airport"
+    },
+    {
+        "tpye": "LIN",
+        "description": "Milan Linate Airport"
+    },
+    {
+        "tpye": "LJG",
+        "description": "SANYI National Airport"
+    },
+    {
+        "tpye": "LST",
+        "description": "Launceston Airport"
+    },
+    {
+        "tpye": "LXA",
+        "description": "GON GA National Airpor"
+    },
+    {
+        "tpye": "LZN",
+        "description": "Matsu Nangen, Taiwan (LZN)"
+    },
+    {
+        "tpye": "MAD",
+        "description": "Madrid, Spain (MAD-Barajas)"
+    },
+    {
+        "tpye": "MAO",
+        "description": "Manaus, Brazil (MAO-Eduardo Gomes Intl.)"
+    },
+    {
+        "tpye": "MCO",
+        "description": "Orlando International"
+    },
+    {
+        "tpye": "MCO",
+        "description": "Orlando, FL, United States (MCO-Orlando Intl.)"
+    },
+    {
+        "tpye": "MDW",
+        "description": "Chicago Midway Airport"
+    },
+    {
+        "tpye": "MDW",
+        "description": "Chicago, IL, United States (MDW-Midway Intl.)"
+    },
+    {
+        "tpye": "MEL",
+        "description": "Melbourne, VIC, Australia (MEL-Tullamarine)"
+    },
+    {
+        "tpye": "MEX",
+        "description": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)"
+    },
+    {
+        "tpye": "MFK",
+        "description": "Matsu Beigan, Taiwan (MFK)"
+    },
+    {
+        "tpye": "MFM",
+        "description": "Macau, Macau (MFM-Macau Intl.)"
+    },
+    {
+        "tpye": "MIA",
+        "description": "Miami International Airport"
+    },
+    {
+        "tpye": "MIA",
+        "description": "Miami, FL, United States (MIA-Miami Intl.)"
+    },
+    {
+        "tpye": "MNL",
+        "description": "Manila, Philippines (MNL-Ninoy Aquino Intl.)"
+    },
+    {
+        "tpye": "MPH",
+        "description": "Caticlan Airport"
+    },
+    {
+        "tpye": "MRS",
+        "description": "Marseille, France (MRS-Marseille -Provence)"
+    },
+    {
+        "tpye": "MSY",
+        "description": "Louis Armstrong International"
+    },
+    {
+        "tpye": "MSY",
+        "description": "New Orleans, LA, United States (MSY-Louis Armstrong New Orleans Intl.)"
+    },
+    {
+        "tpye": "MUC",
+        "description": "Munich, Germany (MUC-Franz Josef Strauss Intl.)"
+    },
+    {
+        "tpye": "MZG",
+        "description": "Makung, Taiwan (MZG)"
+    },
+    {
+        "tpye": "NAT",
+        "description": "Natal, Brazil (NAT-Augusto Severo Intl.)"
+    },
+    {
+        "tpye": "NEW",
+        "description": "New Orleans, LA, United States (NEW-Lakefront)"
+    },
+    {
+        "tpye": "NGO",
+        "description": "Nagoya, Japan (NGO-Chubu Centrair Intl.)"
+    },
+    {
+        "tpye": "NGS",
+        "description": "Nagasaki Airport"
+    },
+    {
+        "tpye": "NKG",
+        "description": "LU KO National Airport"
+    },
+    {
+        "tpye": "NNG",
+        "description": "WUXU National Airport"
+    },
+    {
+        "tpye": "NRT",
+        "description": "Tokyo, Japan (NRT-Narita Intl.)"
+    },
+    {
+        "tpye": "NYO",
+        "description": "Nykoping, Sweden (NYO-Stockholm -Skavsta)"
+    },
+    {
+        "tpye": "OIT",
+        "description": "Oita Airport"
+    },
+    {
+        "tpye": "OIT",
+        "description": "Oita, Japan (OIT)"
+    },
+    {
+        "tpye": "OKA",
+        "description": "Naha, Japan (OKA)"
+    },
+    {
+        "tpye": "OKJ",
+        "description": "Okayama, Japan (OKJ)"
+    },
+    {
+        "tpye": "ORD",
+        "description": "Chicago O'Hare International"
+    },
+    {
+        "tpye": "ORD",
+        "description": "Chicago, IL, United States (MDW-Midway Intl.)"
+    },
+    {
+        "tpye": "ORY",
+        "description": "Paris Orly International Airport"
+    },
+    {
+        "tpye": "OSL",
+        "description": "Oslo, Norway (OSL-Gardermoen)"
+    },
+    {
+        "tpye": "OXF",
+        "description": "Oxford, England, UK (OXF)"
+    },
+    {
+        "tpye": "PEK",
+        "description": "Beijing, China (PEK-Capital Intl.)"
+    },
+    {
+        "type": "PEN",
+        "description": "Penang, Malaysia (PEN-Penang Intl.)"
+    },
+    {
+        "type": "PER",
+        "description": "Perth, WA, Australia (PER)"
+    },
+    {
+        "type": "PHL",
+        "description": "Philadelphia International"
+    },
+    {
+        "type": "PHL",
+        "description": "Philadelphia, PA, United States (PHL-Philadelphia Intl.)"
+    },
+    {
+        "type": "PHX",
+        "description": "Sky Harbor International"
+    },
+    {
+        "type": "PHX",
+        "description": "Phoenix, AZ, United States (PHX-Sky Harbor Intl.)"
+    },
+    {
+        "type": "PNE",
+        "description": "Philadelphia, PA, United States (PNE-Northeast Philadelphia)"
+    },
+    {
+        "type": "PNH",
+        "description": "Phnom Penh, Cambodia (PNH-Phnom Penh Intl.)"
+    },
+    {
+        "type": "PRG",
+        "description": "Prague, Czech Republic (PRG-Ruzyne)"
+    },
+    {
+        "type": "PUS",
+        "description": "Busan, South Korea (PUS-Gimhae)"
+    },
+    {
+        "type": "PVG",
+        "description": "Shanghai, China (PVG-Pudong Intl.)"
+    },
+    {
+        "type": "RAK",
+        "description": "Marrakesh Menara Airport"
+    },
+    {
+        "type": "REP",
+        "description": "Siem Reap, Cambodia (REP-Siem Reap Intl.)"
+    },
+    {
+        "type": "RGN",
+        "description": "Yangon International Airport"
+    },
+    {
+        "type": "RKE",
+        "description": "Copenhagen, Denmark (RKE-Roskilde)"
+    },
+    {
+        "type": "RKV",
+        "description": "Reykjavik, Iceland (RKV-Reykjavik Domestic)"
+    },
+    {
+        "type": "RMQ",
+        "description": "Taichung, Taiwan (RMQ)"
+    },
+    {
+        "type": "ROT",
+        "description": "Rotorua International Airport"
+    },
+    {
+        "type": "ROT",
+        "description": "Rotorua, New Zealand (ROT-Rotorua Regional)"
+    },
+    {
+        "type": "RYG",
+        "description": "Oslo, Norway (RYG-Rygge)"
+    },
+    {
+        "type": "SAN",
+        "description": "San Diego, CA, United States (SAN-San Diego Intl.)"
+    },
+    {
+        "type": "SAV",
+        "description": "Savannah, GA, United States (SAV-Savannah -Hilton Head Intl.)"
+    },
+    {
+        "type": "SBA",
+        "description": "Santa Barbara, CA, United States (SBA-Santa Barbara Municipal)"
+    },
+    {
+        "type": "SDK",
+        "description": "Sandakan Airport"
+    },
+    {
+        "type": "SDM",
+        "description": "San Diego, CA, United States (SDM-Brown Field Municipal)"
+    },
+    {
+        "type": "SEA",
+        "description": "Seattle-Tacoma International -Seatac Airport"
+    },
+    {
+        "type": "SEA",
+        "description": "Seattle, WA, United States (SEA-Seattle -Tacoma Intl.)"
+    },
+    {
+        "type": "SFO",
+        "description": "San Francisco International"
+    },
+    {
+        "type": "SFO",
+        "description": "San Francisco, CA, United States (SFO-San Francisco Intl.)"
+    },
+    {
+        "type": "SGN",
+        "description": "Tan Son Nhat International Airport"
+    },
+    {
+        "type": "SHA",
+        "description": "Shanghai, China (SHA-Hongqiao Intl.)"
+    },
+    {
+        "type": "SHE",
+        "description": "TAO XIAN National Airport"
+    },
+    {
+        "type": "SIN",
+        "description": "Singapore, Singapore (SIN-Changi)"
+    },
+    {
+        "type": "SJW",
+        "description": "ZHENG DIN National Airport"
+    },
+    {
+        "type": "SLC",
+        "description": "Salt Lake City International"
+    },
+    {
+        "type": "SLC",
+        "description": "Salt Lake City, UT, United States (SLC-Salt Lake City Intl.)"
+    },
+    {
+        "type": "SPR",
+        "description": "San Pedro, Belize (SPR)"
+    },
+    {
+        "type": "SPU",
+        "description": "Split, Croatia (SPU)"
+    },
+    {
+        "type": "SSA",
+        "description": "Salvador, Brazil (SSA-DeputadoLuis Eduardo Magalhaes Intl.)"
+    },
+    {
+        "type": "SVO",
+        "description": "Moscow, Russia (SVO-Sheremetyevo)"
+    },
+    {
+        "type": "SWU",
+        "description": "Suwon, South Korea (SWU-Suwon Airbase)"
+    },
+    {
+        "type": "SXF",
+        "description": "Berlin, Germany (SXF-Schonefeld)"
+    },
+    {
+        "type": "SYD",
+        "description": "Sydney, NSW, Australia (SYD-Kingsford Smith Intl.)"
+    },
+    {
+        "type": "SYX",
+        "description": "FENG HUANG National Airport"
+    },
+    {
+        "type": "SZG",
+        "description": "Salzburg, Austria (SZG-W.A. Mozart)"
+    },
+    {
+        "type": "SZX",
+        "description": "BAO AN National Airport"
+    },
+    {
+        "type": "SZX",
+        "description": "Shenzhen, China (SZX-Shenzhen Intl.)"
+    },
+    {
+        "type": "TAE",
+        "description": "Daegu International Airport"
+    },
+    {
+        "type": "TAO",
+        "description": "LIU TING National Airport"
+    },
+    {
+        "type": "TIJ",
+        "description": "Tijuana, Baja California Norte, Mexico (TIJ-General Abelardo L. Rodriguez Intl.)"
+    },
+    {
+        "type": "TKS",
+        "description": "Tokushima, Japan (TKS)"
+    },
+    {
+        "type": "TLC",
+        "description": "Toluca, Estado de Mexico, Mexico (TLC-Licenciado Adolfo Lopez Mateos Intl.)"
+    },
+    {
+        "tpye": "TLL",
+        "description": "Tallinn, Estonia (TLL-Lennart Meri)"
+    },
+    {
+        "tpye": "TNA",
+        "description": "YAO QIANG National Airport"
+    },
+    {
+        "tpye": "TNN",
+        "description": "Tainan, Taiwan (TNN)"
+    },
+    {
+        "tpye": "TOY",
+        "description": "Toyama, Japan (TOY)"
+    },
+    {
+        "tpye": "TPE",
+        "description": "Taipei, Taiwan (TPE-Taoyuan Intl.)"
+    },
+    {
+        "tpye": "TRF",
+        "description": "Sandefjord, Norway (TRF-Torp)"
+    },
+    {
+        "tpye": "TSA",
+        "description": "Taipei, Taiwan (TSA-Songshan)"
+    },
+    {
+        "tpye": "TSF",
+        "description": "Treviso, Italy (TSF)"
+    },
+    {
+        "tpye": "TSN",
+        "description": "BIN HAI National Airport"
+    },
+    {
+        "tpye": "TTT",
+        "description": "Taitung, Taiwan (TTT)"
+    },
+    {
+        "tpye": "TUO",
+        "description": "Taupo, New Zealand (TUO)"
+    },
+    {
+        "tpye": "TWU",
+        "description": "Tawau Airport"
+    },
+    {
+        "tpye": "TXG",
+        "description": "Taichung, Taiwan (TXG)"
+    },
+    {
+        "tpye": "TXL",
+        "description": "Berlin, Germany (TXL-Tegel)"
+    },
+    {
+        "tpye": "TXN",
+        "description": "TUN XI National Airport"
+    },
+    {
+        "tpye": "TYN",
+        "description": "WU SU National Airport"
+    },
+    {
+        "tpye": "UKB",
+        "description": "Kobe, Japan (UKB)"
+    },
+    {
+        "tpye": "URC",
+        "description": "DI WO PU National Airport"
+    },
+    {
+        "tpye": "USM",
+        "description": "KoSamui, Thailand (USM)"
+    },
+    {
+        "tpye": "UST",
+        "description": "St. Augustine, FL, United States (UST)"
+    },
+    {
+        "tpye": "VCE",
+        "description": "Venice, Italy (VCE-Marco Polo)"
+    },
+    {
+        "tpye": "VIE",
+        "description": "Vienna, Austria (VIE-Vienna Intl.)"
+    },
+    {
+        "tpye": "VKO",
+        "description": "Moscow, Russia (VKO-Vnukovo Intl.)"
+    },
+    {
+        "tpye": "VNO",
+        "description": "Vilnius, Lithuania (VNO-Vilnius Intl.)"
+    },
+    {
+        "tpye": "VTE",
+        "description": "Vientiane, Laos (VTE-Wattay Intl.)"
+    },
+    {
+        "tpye": "WAW",
+        "description": "Warsaw, Poland (WAW-Frederic Chopin)"
+    },
+    {
+        "tpye": "WLG",
+        "description": "Wellington International Airport"
+    },
+    {
+        "tpye": "WUH",
+        "description": "TIAN HE National Airport"
+    },
+    {
+        "tpye": "XIY",
+        "description": "Xianyang International Airport"
+    },
+    {
+        "tpye": "XMN",
+        "description": "KAO QI National Airport"
+    },
+    {
+        "tpye": "XNN",
+        "description": "CAO JIA BAO National Airport"
+    },
+    {
+        "tpye": "YIW",
+        "description": "YI WU National Airport"
+    },
+    {
+        "tpye": "YVR",
+        "description": "Vancouver International Airport"
+    },
+    {
+        "tpye": "YVR",
+        "description": "Vancouver, BC, Canada (YVR-Vancouver Intl.)"
+    },
+    {
+        "tpye": "YYZ",
+        "description": "Lester B. Pearson International Airport"
+    },
+    {
+        "tpye": "YYZ",
+        "description": "Toronto, ON, Canada (YYZ-Pearson Intl.)"
+    },
+    {
+        "tpye": "YZF",
+        "description": "Yellowknife Airport"
+    },
+    {
+        "type": "ZAG",
+        "description": "Zagreb, Croatia (ZAG)"
+    },
+    {
+        "type": "ZQN",
+        "description": "Queenstown, New Zealand (ZQN-Queenstown Intl.)"
+    },
+    {
+        "type": "ZRH",
+        "description": "Zurich, Switzerland (ZRH)"
+    }
+]

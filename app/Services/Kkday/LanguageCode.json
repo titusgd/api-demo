@@ -1,0 +1,33 @@
+[{
+        "type": "zh-tw",
+        "description": "繁體中文（台灣）Traditional Chinese"
+    },
+    {
+        "type": "zh-cn",
+        "description": "簡體中文 Simplified Chinese"
+    },
+    {
+        "type": "zh-hk",
+        "description": "繁體中文（香港）Traditional Chinese"
+    },
+    {
+        "type": "vi",
+        "description": "Tiếng Việt Vietnamese"
+    },
+    {
+        "type": "th",
+        "description": "ไทย Thai"
+    },
+    {
+        "type": "ko",
+        "description": "한국어 Korean"
+    },
+    {
+        "type": "ja",
+        "description": "日本語 Japanese"
+    },
+    {
+        "type": "en",
+        "description": "English"
+    }
+]

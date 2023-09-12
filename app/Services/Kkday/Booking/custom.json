@@ -1,0 +1,321 @@
+{
+  "custom": {
+    "cus_type": {
+      "is_require": "True",
+      "is_perParticipant": "True",
+      "type": "array",
+      "list_option": [
+        "send",
+        "cus_01",
+        "cus_02",
+        "contact"
+      ]
+    },
+    "english_last_name": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "is_lead_used": "True",
+      "type": "string"
+    },
+    "english_first_name": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "is_lead_used": "True",
+      "type": "string"
+    },
+    "native_last_name": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "is_send_used": "True",
+      "is_contact_used": "True",
+      "type": "string"
+    },
+    "native_first_name": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "is_send_used": "True",
+      "is_contact_used": "True",
+      "type": "string"
+    },
+    "tel_country_code": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_send_used": "True",
+      "is_contact_used": "True",
+      "type": "list",
+      "ref_source": "list_option.code"
+    },
+    "tel_number": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_send_used": "True",
+      "is_contact_used": "True",
+      "type": "string"
+    },
+    "gender": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "is_lead_used": "True",
+      "type": "list",
+      "ref_source": "list_option.id",
+      "list_option": [
+        {
+          "id": "F",
+          "name": "Female"
+        },
+        {
+          "id": "M",
+          "name": "Male"
+        }
+      ]
+    },
+    "contact_app": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_contact_used": "True",
+      "type": "list",
+      "ref_source": "list_option.app_type",
+      "list_option": [
+        {
+          "supported": false,
+          "app_type": "0006",
+          "app_name": "SnapChat"
+        },
+        {
+          "supported": false,
+          "app_type": "0007",
+          "app_name": "Facebook Messenger"
+        },
+        {
+          "supported": true,
+          "app_type": "0004",
+          "app_name": "Kakao"
+        },
+        {
+          "supported": false,
+          "app_type": "0005",
+          "app_name": "Viber"
+        }
+      ]
+    },
+    "contact_app_account": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_contact_used": "True",
+      "type": "string"
+    },
+    "country_cities": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_send_used": "True",
+      "type": "list",
+      "ref_source": "list_option.id_list_option.city_code"
+    },
+    "zipcode": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_send_used": "True",
+      "type": "string"
+    },
+    "address": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_send_used": "True",
+      "type": "string"
+    },
+    "nationality": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.code"
+    },
+    "mtp_no": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "string"
+    },
+    "id_no": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "string"
+    },
+    "passport_no": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "is_lead_used": "True",
+      "type": "string"
+    },
+    "passport_expdate": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "string"
+    },
+    "birth": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "is_lead_used": "True",
+      "type": "date"
+    },
+    "height": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "string"
+    },
+    "height_unit": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.id"
+    },
+    "weight": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "string"
+    },
+    "weight_unit": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.id"
+    },
+    "shoe": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.size_range",
+      "list_option": [
+        {
+          "man": [
+            {
+              "unit_code": "01",
+              "unit_name": "US",
+              "size_range_start": "6",
+              "size_range_end": "14.5",
+              "interval": "0.5"
+            },
+            {
+              "unit_code": "02",
+              "unit_name": "EU",
+              "size_range_start": "39.5",
+              "size_range_end": "48",
+              "interval": "0.5"
+            },
+            {
+              "unit_code": "03",
+              "unit_name": "JP/CM",
+              "size_range_start": "24.5",
+              "size_range_end": "33",
+              "interval": "0.5"
+            }
+          ]
+        },
+        {
+          "woman": [
+            {
+              "unit_code": "01",
+              "unit_name": "US",
+              "size_range_start": "4",
+              "size_range_end": "11",
+              "interval": "0.5"
+            },
+            {
+              "unit_code": "02",
+              "unit_name": "EU",
+              "size_range_start": "34",
+              "size_range_end": "41",
+              "interval": "0.5"
+            },
+            {
+              "unit_code": "03",
+              "unit_name": "JP/CM",
+              "size_range_start": "21",
+              "size_range_end": "30",
+              "interval": "0.5"
+            }
+          ]
+        },
+        {
+          "child": [
+            {
+              "unit_code": "01",
+              "unit_name": "US",
+              "size_range_start": "2.5",
+              "size_range_end": "5.5",
+              "interval": "0.5"
+            },
+            {
+              "unit_code": "02",
+              "unit_name": "EU",
+              "size_range_start": "19",
+              "size_range_end": "25",
+              "interval": "0.5"
+            },
+            {
+              "unit_code": "03",
+              "unit_name": "JP/CM",
+              "size_range_start": "11",
+              "size_range_end": "15",
+              "interval": "0.5"
+            }
+          ]
+        }
+      ]
+    },
+    "shoe_unit": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.id"
+    },
+    "shoe_type": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.id"
+    },
+    "glass_degree": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.range"
+    },
+    "meal": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "list",
+      "ref_source": "list_option.meal_type"
+    },
+    "allergy_food": {
+      "is_require": "True",
+      "is_visible": "True",
+      "is_perParticipant": "True",
+      "type": "string"
+    },
+    "guide_lang": {
+      "is_require": "True",
+      "is_visible": "True",
+      "type": "list",
+      "ref_source": "list_option.code"
+    }
+  }
+}

@@ -1,0 +1,233 @@
+[{
+        "type": "TAG_1",
+        "description": "水族館&動物園"
+    },
+    {
+        "type": "TAG_1_1",
+        "description": "刺激冒險"
+    },
+    {
+        "type": "TAG_1_2",
+        "description": "水上活動"
+    },
+    {
+        "type": "TAG_1_3",
+        "description": "戶外休閒"
+    },
+    {
+        "type": "TAG_2",
+        "description": "歷史景點"
+    },
+    {
+        "type": "TAG_2_1",
+        "description": "景點門票"
+    },
+    {
+        "type": "TAG_2_2",
+        "description": "博物館&美術館"
+    },
+    {
+        "type": "TAG_2_3",
+        "description": "主題樂園"
+    },
+    {
+        "type": "TAG_2_4",
+        "description": "運動賽事"
+    },
+    {
+        "type": "TAG_2_5",
+        "description": "餐廳美食"
+    },
+    {
+        "type": "TAG_2_6",
+        "description": "娛樂門票"
+    },
+    {
+        "type": "TAG_3",
+        "description": "展覽"
+    },
+    {
+        "type": "TAG_3_1",
+        "description": "特色行程"
+    },
+    {
+        "type": "TAG_3_2",
+        "description": "甜點飲品"
+    },
+    {
+        "type": "TAG_3_3",
+        "description": "spa&按摩"
+    },
+    {
+        "type": "TAG_3_4",
+        "description": "工作坊＆課程"
+    },
+    {
+        "type": "TAG_3_5",
+        "description": "逛街購物"
+    },
+    {
+        "type": "TAG_3_6",
+        "description": "文化節慶"
+    },
+    {
+        "type": "TAG_3_7",
+        "description": "伴手禮"
+    },
+    {
+        "type": "TAG_4",
+        "description": "雪地活動"
+    },
+    {
+        "type": "TAG_4_1",
+        "description": "城市觀光"
+    },
+    {
+        "type": "TAG_4_2",
+        "description": "文史藝術"
+    },
+    {
+        "type": "TAG_4_3",
+        "description": "自然生態"
+    },
+    {
+        "type": "TAG_4_4",
+        "description": "半/一日遊"
+    },
+    {
+        "type": "TAG_4_5",
+        "description": "多日遊"
+    },
+    {
+        "type": "TAG_4_6",
+        "description": "專車服務"
+    },
+    {
+        "type": "TAG_4_7",
+        "description": "郵輪假期"
+    },
+    {
+        "type": "TAG_4_8",
+        "description": "專業攝影服務"
+    },
+    {
+        "type": "TAG_5",
+        "description": "遠足&登山"
+    },
+    {
+        "type": "TAG_5_1",
+        "description": "交通票券"
+    },
+    {
+        "type": "TAG_5_2",
+        "description": "機場接駁"
+    },
+    {
+        "type": "TAG_5_3",
+        "description": "租車自駕"
+    },
+    {
+        "type": "TAG_5_4",
+        "description": "遊船觀光"
+    },
+    {
+        "type": "TAG_5_5",
+        "description": "WiFi&SIM卡"
+    },
+    {
+        "type": "TAG_6",
+        "description": "觀光農場"
+    },
+    {
+        "type": "TAG_6_1",
+        "description": "飯店"
+    },
+    {
+        "type": "TAG_6_2",
+        "description": "民宿"
+    },
+    {
+        "type": "TAG_6_3",
+        "description": "住宿券"
+    },
+    {
+        "type": "TAG_6_4",
+        "description": "露營"
+    },
+    {
+        "type": "TAG_6_5",
+        "description": "環島之星"
+    },
+    {
+        "type": "TAG_6_6",
+        "description": "高鐵假期"
+    },
+    {
+        "type": "TAG_6_8",
+        "description": "華信假期"
+    },
+    {
+        "type": "TAG_7",
+        "description": "美容&沙龍"
+    },
+    {
+        "type": "TAG_8",
+        "description": "溫泉"
+    },
+    {
+        "type": "TAG_9",
+        "description": "文化體驗"
+    },
+    {
+        "type": "TAG_10",
+        "description": "手作材料包"
+    },
+    {
+        "type": "TAG_11",
+        "description": "線上旅遊"
+    },
+    {
+        "type": "TAG_12",
+        "description": "單車旅遊"
+    },
+    {
+        "type": "TAG_13",
+        "description": "生鮮雜貨"
+    },
+    {
+        "type": "TAG_14",
+        "description": "度假村"
+    },
+    {
+        "type": "TAG_15",
+        "description": "旅遊文件申請服務"
+    },
+    {
+        "type": "TAG_16",
+        "description": "行李運送/寄存服務"
+    },
+    {
+        "type": "TAG_17",
+        "description": "旅行裝備與相關服務"
+    },
+    {
+        "type": "TAG_18",
+        "description": "機+酒"
+    },
+    {
+        "type": "TAG_19",
+        "description": "機+行程&門票"
+    },
+    {
+        "type": "TAG_20",
+        "description": "機+團體旅遊&Mini Tours"
+    },
+    {
+        "type": "TAG_21",
+        "description": "機+郵輪假期"
+    },
+    {
+        "type": "TAG_22",
+        "description": "機票"
+    }
+]

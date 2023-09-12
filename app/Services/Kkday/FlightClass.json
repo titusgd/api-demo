@@ -1,0 +1,9 @@
+[{
+        "type": "01",
+        "description": "國內線"
+    },
+    {
+        "type": "02",
+        "description": "國際線"
+    }
+]

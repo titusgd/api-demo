@@ -1,0 +1,33 @@
+[{
+        "type": "0001",
+        "description": "Line"
+    },
+    {
+        "type": "0002",
+        "description": "WhatsApp"
+    },
+    {
+        "type": "0003",
+        "description": "WeChat"
+    },
+    {
+        "type": "0004",
+        "description": "Kakao"
+    },
+    {
+        "type": "0005",
+        "description": "Viber"
+    },
+    {
+        "type": "0006",
+        "description": "SnapChat"
+    },
+    {
+        "type": "0007",
+        "description": "Facebook Messager"
+    },
+    {
+        "type": "0008",
+        "description": "Twitter"
+    }
+]

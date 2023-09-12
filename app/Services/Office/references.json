@@ -1,0 +1,130 @@
+{
+    "icon_url":"https://www.*.com.tw/e_web/image/promotions/",
+    "icon": [
+        {
+            "code": "A",
+            "url": "detail_page_icon03.jpg",
+            "text": "無購物站"
+        },
+        {
+            "code": "B",
+            "url": "detail_page_icon04.jpg",
+            "text": "無自費"
+        },
+        {
+            "code": "C",
+            "url": "detail_page_icon05.jpg",
+            "text": "送小費"
+        },
+        {
+            "code": "D",
+            "url": "detail_page_icon06.jpg",
+            "text": "保證出團"
+        },
+        {
+            "code": "E",
+            "url": "detail_page_icon07.jpg",
+            "text": "聯營團體"
+        },
+        {
+            "code": "F",
+            "url": "detail_page_icon08.jpg",
+            "text": "車上WIFI"
+        },
+        {
+            "code": "G",
+            "url": "detail_page_icon09.jpg",
+            "text": "商務三排車"
+        },
+        {
+            "code": "H",
+            "url": "detail_page_icon10.jpg",
+            "text": "免費WIFI"
+        },
+        {
+            "code": "K",
+            "url": "detail_page_icon13.jpg",
+            "text": "熊本熊束帶"
+        },
+        {
+            "code": "L",
+            "url": "detail_page_icon14.jpg",
+            "text": "雪鞋套"
+        },
+        {
+            "code": "M",
+            "url": "detail_page_icon15.jpg",
+            "text": "導覽耳機"
+        },
+        {
+            "code": "N",
+            "url": "detail_page_icon17.jpg",
+            "text": "無車購"
+        },
+        {
+            "code": "O",
+            "url": "detail_page_icon19.jpg",
+            "text": "環保袋"
+        },
+        {
+            "code": "P",
+            "url": "detail_page_icon20.jpg",
+            "text": "旅行六件組"
+        },
+        {
+            "code": "Q",
+            "url": "detail_page_icon21.jpg",
+            "text": "彩色束帶"
+        },
+        {
+            "code": "R",
+            "url": "detail_page_icon22.jpg",
+            "text": "新春紅包袋"
+        },
+        {
+            "code": "S",
+            "url": "detail_page_icon23.jpg",
+            "text": "上網SIM卡"
+        },
+        {
+            "code": "T",
+            "url": "detail_page_icon24.jpg",
+            "text": "中國打卡機"
+        },
+        {
+            "code": "U",
+            "url": "detail_page_icon25.jpg",
+            "text": "行動電源"
+        },
+        {
+            "code": "V",
+            "url": "detail_page_icon27.jpg",
+            "text": "防水袋"
+        },
+        {
+            "code": "W",
+            "url": "detail_page_icon28.jpg",
+            "text": "有位有房"
+        },
+        {
+            "code": "X",
+            "url": "detail_page_icon29.jpg",
+            "text": "免費SIM卡"
+        },
+        {
+            "code": "Y",
+            "url": "detail_page_icon30.jpg",
+            "text": "沐浴旅行組"
+        },
+        {
+            "code": "Z",
+            "url": "detail_page_icon12.jpg",
+            "text": "熊本熊行李牌"
+        },
+        {
+            "code": "I",
+            "url": "detail_page_icon31.jpg",
+            "text": "小孩不佔床半價"
+        }
+    ]
+}

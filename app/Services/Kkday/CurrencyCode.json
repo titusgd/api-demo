@@ -1,0 +1,45 @@
+[{
+        "type": "TWD",
+        "description": "New Taiwan dollar"
+    },
+    {
+        "type": "JPY",
+        "description": "Japanese yen"
+    },
+    {
+        "type": "KRW",
+        "description": "South Korea won"
+    },
+    {
+        "type": "CNY",
+        "description": "Renminbi"
+    },
+    {
+        "type": "HKD",
+        "description": "Hong Kong dollar"
+    },
+    {
+        "type": "PHP",
+        "description": "Phillippine peso"
+    },
+    {
+        "type": "IDR",
+        "description": "Indonesian rupiah"
+    },
+    {
+        "type": "SGD",
+        "description": "Singapore dollar"
+    },
+    {
+        "type": "MYR",
+        "description": "Malasyian ringgit"
+    },
+    {
+        "type": "VND",
+        "description": "Vietnamese đồng"
+    },
+    {
+        "type": "THB",
+        "description": "Thai baht"
+    }
+]

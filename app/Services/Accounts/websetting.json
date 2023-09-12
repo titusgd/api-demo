@@ -1,0 +1,27 @@
+{
+    "relus": {
+        "data.page.dark": "required|boolean",
+        "data.page.menuTop": "required|boolean",
+        "data.page.shortcut": "required|boolean",
+        "data.table.fontSize": "required|numeric",
+        "data.table.rows": "required|numeric|max:100,min:5",
+        "data.table.padding": "required|boolean"
+    },
+    "message": {
+        "data.page.dark.required": "01 dark",
+        "data.page.dark.boolean": "01 dark",
+        "data.page.menuTop.required": "01 menuTop",
+        "data.page.menuTop.boolean": "01 menuTop",
+        "data.page.shortcut.required": "01 shortcut",
+        "data.page.shortcut.boolean": "01 shortcut",
+        "data.table.fontSize.required": "01 fontSize",
+        "data.table.fontSize.integer": "01 fontSize",
+        "data.table.rows.required": "01 rows",
+        "data.table.rows.integer": "01 rows",
+        "data.table.rows.max": "01 rows",
+        "data.table.padding.required": "01 padding",
+        "data.table.padding.boolean": "01 padding",
+        "data.print.fontSize.required": "01 fontSize",
+        "data.print.fontSize.integer": "01 fontSize"
+    }
+}

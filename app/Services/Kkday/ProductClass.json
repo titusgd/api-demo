@@ -1,0 +1,33 @@
+[{
+        "type": "M01",
+        "description": "一日遊"
+    },
+    {
+        "type": "M02",
+        "description": "多日遊"
+    },
+    {
+        "type": "M03",
+        "description": "機場接送"
+    },
+    {
+        "type": "M04",
+        "description": "司機/交通"
+    },
+    {
+        "type": "M05",
+        "description": "票券"
+    },
+    {
+        "type": "M06",
+        "description": "半日遊"
+    },
+    {
+        "type": "M07",
+        "description": "私人導遊"
+    },
+    {
+        "type": "M08",
+        "description": "點對點接送"
+    }
+]

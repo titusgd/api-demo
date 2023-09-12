@@ -1,0 +1,13 @@
+[{
+        "type": "01",
+        "description": "US"
+    },
+    {
+        "type": "02",
+        "description": "EU"
+    },
+    {
+        "type": "03",
+        "description": "JP/CM"
+    }
+]
